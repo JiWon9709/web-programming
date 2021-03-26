@@ -10,8 +10,13 @@
 	<!-- Root Context: defines shared resources visible to all other web components -->
 	
 	<bean id="hikariConfig" class="com.zaxxer.hikari.HikariConfig">
+	<!--  
 	<property name="driverClassName" value="oracle.jdbc.driver.OracleDriver"></property>
 	<property name="jdbcUrl" value="jdbc:oracle:thin:@localhost:1521:XE"></property>
+	-->
+	<property name="driverClassName" value="net.sf.log4jdbc.sql.jdbcapi.DriverSpy"></property>
+	<property name="jdbcUrl" value="jdbc:log4jdbc:oracle:thin:@localhost:1521:XE"></property>
+	
 	<property name="username" value="BOOK_EX"></property>
 	<property name="password" value="1111"></property>
 	</bean>
