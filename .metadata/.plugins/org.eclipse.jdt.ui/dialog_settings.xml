@@ -3,7 +3,7 @@
 	<item value="false" key="TypeHierarchyViewPart.qualifiednames"/>
 	<item value="3" key="TypeHierarchyViewPart.orientation"/>
 	<item value="false" key="TypeHierarchyViewPart.linkeditors"/>
-	<item value="C:\Users\ji_ji\Downloads\sqldeveloper-20.4.1.407.0006-no-jre\sqldeveloper\jdbc\lib" key="org.eclipse.jdt.ui.lastextjar"/>
+	<item value="C:\Users\ji_ji\.m2\repository\log4j\log4j\1.2.15" key="org.eclipse.jdt.ui.lastextjar"/>
 	<item value="2" key="TypeHierarchyViewPart.hierarchyview"/>
 	<section name="RefactoringWizard.preview">
 		<item value="600" key="width"/>
@@ -29,7 +29,7 @@
 	<section name="quick_assist_proposal_size">
 	</section>
 	<section name="BuildPathsPropertyPage">
-		<item value="2" key="pageIndex"/>
+		<item value="3" key="pageIndex"/>
 	</section>
 	<section name="completion_proposal_size">
 	</section>
