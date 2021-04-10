@@ -5,7 +5,129 @@
   <link rel="self" href="https://spring.io/blog.atom" />
   <id>http://spring.io/blog.atom</id>
   <icon>https://spring.io/favicon.ico</icon>
-  <updated>2021-04-01T22:56:00Z</updated>
+  <updated>2021-04-09T03:37:00Z</updated>
+  <entry>
+    <title>A Bootiful Podcast: Ambassador Labs devrel director, InfoQ contributor, lifelong learner, and awesome human, and friend Daniel Bryant</title>
+    <link rel="alternate" href="https://spring.io/blog/2021/04/08/a-bootiful-podcast-ambassador-labs-devrel-director-infoq-contributor-lifelong-learner-and-awesome-human-and-friend-daniel-bryant" />
+    <category term="engineering" label="Engineering" />
+    <author>
+      <name>Josh Long</name>
+    </author>
+    <id>tag:spring.io,2021-04-09:4406</id>
+    <updated>2021-04-09T03:37:00Z</updated>
+    <content type="html">&lt;p&gt;Hi, Spring fans! In this episode &lt;a href="https://twitter.com/starbuxman"&gt;Josh Long (@starbuxman)&lt;/a&gt; talks to Ambassador Labs devrel director, InfoQ contributor, lifelong learner, and awesome human, and friend &lt;a href="https://twitter.com/danielbryantuk"&gt;Daniel Bryant (@danielbryantuk)&lt;/a&gt;. &lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://www.getambassador.io/developer-office-hours/"&gt;the Ambassador Office Hours&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://tanzu.vmware.com/content/webinars/apr-15-rapid-development-with-azure-spring-cloud-workshop-preview"&gt;Sign up for the Rapid Development with Azure Spring Cloud webinar &lt;/a&gt; that Microsoft&amp;rsquo;s Julien Dubois and I are putting on April 15th, 2021.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe title="Ambassador Labs devrel director, InfoQ contributor, lifelong learner, and awesome human, and friend Daniel Bryant" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=t2823-1002c28-pb&amp;from=pb6admin&amp;download=1&amp;share=1&amp;download=1&amp;rtl=0&amp;fonts=Arial&amp;skin=1&amp;btn-skin=7"&gt;&lt;/iframe&gt;
+&lt;!-- rendered by Sagan Renderer Service --&gt;</content>
+  </entry>
+  <entry>
+    <title>This Week in Spring - April 6th, 2021</title>
+    <link rel="alternate" href="https://spring.io/blog/2021/04/06/this-week-in-spring-april-6th-2021" />
+    <category term="engineering" label="Engineering" />
+    <author>
+      <name>Josh Long</name>
+    </author>
+    <id>tag:spring.io,2021-04-06:4405</id>
+    <updated>2021-04-06T21:45:00Z</updated>
+    <content type="html">&lt;p&gt;Hi, Spring fans! Welcome to another installment of &lt;em&gt;This Week in Spring&lt;/em&gt;! How are you? I&amp;rsquo;m doing alright, thank you. We&amp;rsquo;ve got a ton of stuff to get to this week so let&amp;rsquo;s dive right in! &lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://tanzu.vmware.com/content/webinars/apr-15-rapid-development-with-azure-spring-cloud-workshop-preview"&gt;Join Julien Dubois and me for this look at a rapid development with Azure Spring Cloud&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://spring.io/blog/2021/04/01/a-bootiful-podcast-springfox-creator-marty-pitt-on-swagger-vyne-and-taxi-lang-and-much-more"&gt;A Bootiful Podcast: SpringFox creator Marty Pitt on Swagger, Vyne and Taxi lang, and much more&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/asirselvasingh/status/1379465799635664898?s=12"&gt;A new Microsoft build of OpenJDK will become the default in Azure&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://spring.io/blog/2021/04/05/api-rate-limiting-with-spring-cloud-gateway"&gt;API Rate Limiting with Spring Cloud Gateway&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://kubernetes.io/blog/2021/04/06/podsecuritypolicy-deprecation-past-present-and-future/"&gt;Blog: PodSecurityPolicy Deprecation: Past, Present, and Future&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/jonatan_ivanov/status/1377065666310643714?s=12"&gt;Check out the new release of Spring Cloud SleuthOpenTelemetry support&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.infoq.com/news/2021/04/ki-kotlin-interactive-shell/"&gt;Ki is a New, More Flexible Kotlin Interactive Shell&lt;/a&gt; - I love this!&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/piotr_minkowski/status/1377542707434897408?s=12"&gt;Run Spring Cloud Gateway for Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://spring.io/blog/2021/03/31/spring-data-2021-0-0-rc1-and-2020-0-7-released"&gt;Spring Data 2021.0.0-RC1 and 2020.0.7 released&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.infoq.com/news/2021/03/the-road-to-kotlin-1-5/"&gt;The Road to Kotlin 1.5&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/jonatan_ivanov/status/1377783530311196672?s=12"&gt;Today Spring Cloud Sleuth OpenTelemetry 1.0.0-M7 was released! It contains upgrades for OTel 1.0.1, OTel instrumentation 1.0.1-alpha, updated Spring dependencies and an important bugfix thanks to @MGrzejszczak. Enjoy! :)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/olehdokuka/status/1377177610992508939?s=12"&gt;Wanna join the Reactor team? We&amp;rsquo;re hiring!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=EVkVtYn57qA"&gt;Want to learn more about RSocket Routing and the RSocket broker, check out this episode of Tanzu Code with special guest Oleh Dokuka - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- rendered by Sagan Renderer Service --&gt;</content>
+  </entry>
+  <entry>
+    <title>API Rate Limiting with Spring Cloud Gateway</title>
+    <link rel="alternate" href="https://spring.io/blog/2021/04/05/api-rate-limiting-with-spring-cloud-gateway" />
+    <category term="engineering" label="Engineering" />
+    <author>
+      <name>Haytham Mohamed</name>
+    </author>
+    <id>tag:spring.io,2021-03-31:4403</id>
+    <updated>2021-04-05T19:46:00Z</updated>
+    <content type="html">&lt;p&gt;One of the imperative architectural concerns is to protect APIs and service endpoints from harmful effects, such as denial of service, cascading failure. or overuse of resources. Rate limiting is a technique to control the rate by which an API or a service is consumed. In a distributed system, no better option exists than to centralize configuring and managing the rate at which consumers can interact with APIs. Only those requests within a defined rate would make it to the API. Any more would raise an HTTP ¡°Many requests¡± error.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://static.spring.io/blog/haythamm/20210405/rate-limit-1.svg" alt="link to rate limit image" /&gt;&lt;/p&gt;
+&lt;p&gt;Spring Cloud Gateway (SCG) is a simple and lightweight component, yet it is an effective way to manage limiting API consumption rates. In this blog, I am going to illustrate how simply that can be accomplished by using a configuration method. As illustrated in the figure below, the demonstration consists of a frontend and backend services with a Spring Cloud Gateway service in between.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://static.spring.io/blog/haythamm/20210405/backend-gateway-frontend.svg" alt="link to rate limit image" /&gt;&lt;/p&gt;
+&lt;p&gt;No code whatsoever is needed to include the SCG in the architecture. You need to include a Spring Boot Cloud dependency &lt;code&gt;org.springframework.cloud:spring-cloud-starter-gateway&lt;/code&gt; in a vanilla Spring Boot application, and you¡¯re set to go with the appropriate configuration settings.&lt;/p&gt;
+&lt;p&gt;Requests received by SCG from a frontend service can be routed to a backend service based on a configured route definition. A route definition configuration specifies to the gateway how a request should be routed to a backend endpoint. A route configuration usually defines conditions based on information that can be extracted from HTTP requests, such as paths and headers.&lt;/p&gt;
+&lt;p&gt;For example, the snippet below lists a YAML stanza to configure the condition under which requests should be routed to a backend service. It shows that requests should target the backend service when the gateway is hit with ¡°/backend¡± in the path. In the configuration, the route is given an identifier and the backend service URI.&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint yaml"&gt;spring:&#xD;
+  cloud:&#xD;
+    gateway:&#xD;
+      routes:&#xD;
+        - id: route1&#xD;
+          uri: http://localhost:8081&#xD;
+          predicates:&#xD;
+            - Path=/backend
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;RequestRateLimiter&lt;/strong&gt; is one of the many gateway filters offered by SCG. The implementation determines whether a request is allowed to proceed or has exceeded its limit. The implementation lets you (optionally) plug in a key to manage limiting the number of requests to different services. While it is customizable to implement how to resolve a key, the gateway comes with one that uses a user¡¯s &lt;strong&gt;Principal&lt;/strong&gt; name. A secured gateway is needed to resolve a user¡¯s principal name, but you have the option to implement the KeyResolver interface to instead resolve a different key from the ServerWebExchange. You can point to a custom KeyResolver bean (for example, named customKeyResolver) in the configuration by using a SPEL &lt;em&gt;#{@customKeyResolver}&lt;/em&gt; expression. The following listing shows the &lt;strong&gt;KeyResolver&lt;/strong&gt; interface:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint java"&gt;public interface KeyResolver {&#xD;
+    Mono&amp;lt;String&amp;gt; resolve(ServerWebExchange exchange);&#xD;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The gateway would deny requests if no key was resolved. To let the gateway accept a missing resolved key, you can set the following property:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint properties"&gt;spring.cloud.gateway.filter.request-rate-limiter.deny-empty-key=false
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;You can also specify a status code that the gateway should report when it could not figure out a key by setting the following property:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint properties"&gt;spring.cloud.gateway.filter.request-rate-limiter.empty-key-status-code=
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Consider a blueprint architecture in which a gateway controls limiting API consumptions by using Redis. The provided Redis implementation uses the Token Bucket algorithm. To use it, you need to include the &lt;code&gt;spring-boot-starter-data-redis&lt;/code&gt; Spring Boot starter dependency in the gateway application. Basically, the token bucket algorithm uses balance tokens as a means to maintain an accumulating budget of utilization. The algorithm assumes tokens will be added to a bucket at a certain rate while calls to an API consume from these tokens. One API invocation may perform many operations to compose a response in order to fulfill a request (think of GraphQL-based APIs). In such cases, the algorithm helps to recognize that one invocation may cost an API more than one token.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://static.spring.io/blog/haythamm/20210405/redis-rate-limiting.svg" alt="link to rate limit image" /&gt;&lt;/p&gt;
+&lt;p&gt;The provided Redis implementation lets you define the request rate at which users can make calls within a certain time period. It also makes it possible to accommodate sporadic demands while constrained by the defined consumption rate. For example, a configuration can define a replenish rate of 500 requests per second by setting the &lt;code&gt;redis-rate-limiter.replenishRate=500&lt;/code&gt; property and a burst capacity of 1000 request per second by setting the &lt;code&gt;redis-rate-limiter.burstCapacity=1000&lt;/code&gt; property. Doing so limits consumption to 500 requests every second. If a burst in the number of requests occurs, only 1,000 requests are allowed. However, because 1,000 requests are a quota of 2 seconds, the gateway would not route requests for the next second. The configuration also lets you define how many tokens a request would cost by setting the property &lt;code&gt;redis-rate-limiter.requestedTokens&lt;/code&gt; property. Typically, it is set to 1.&lt;/p&gt;
+&lt;p&gt;To use a gateway with a request limiting feature, it needs to be configured with the RequestRateLimiter gateway filter. The configuration can specify arguments to define a replenish rate, burst capacity, and the number of tokens that a request costs. The example below illustrates how to configure a gateway with these arguments:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint yaml"&gt;spring:&#xD;
+  cloud:&#xD;
+    gateway:&#xD;
+      routes:&#xD;
+        - id: route1&#xD;
+          uri: http://localhost:8081&#xD;
+          predicates:&#xD;
+            - Path=/backend&#xD;
+          filters:&#xD;
+          - name: RequestRateLimiter&#xD;
+            args:&#xD;
+              redis-rate-limiter.replenishRate: 500&#xD;
+              redis-rate-limiter.burstCapacity: 1000&#xD;
+              redis-rate-limiter.requestedTokens: 1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Spring cloud gateway provides the flexibility to define your own custom rate limiter implementation. It offers a RateLimiter interface to implement and define a bean. The rate limiter bean can be configured by using a SPEL expression, as in the case of a custom key resolver. For instance, you can define a custom rate limiter bean named customRateLimiter and a custom key resolver named customKeyResolver and configure a route like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint java"&gt;@Bean&#xD;
+public KeyResolver customKeyResolver {&#xD;
+	return exchange -&amp;gt; ....  // returns a Mono of String&#xD;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class="prettyprint yaml"&gt;spring:&#xD;
+  cloud:&#xD;
+    gateway:&#xD;
+      routes:&#xD;
+        - id: route1&#xD;
+          uri: http://localhost:8081&#xD;
+          predicates:&#xD;
+            - Path=/backend&#xD;
+          filters:&#xD;
+          - name: RequestRateLimiter&#xD;
+            args:&#xD;
+              rate-limiter: &amp;quot;#{customRateLimiter}&amp;quot;&#xD;
+              key-resolver: &amp;quot;#{customKeyResolver}&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An illustrating example is available in &lt;a href="https://github.com/Haybu/blog-spring-cloud-gateway/tree/rate-limiting"&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;!-- rendered by Sagan Renderer Service --&gt;</content>
+  </entry>
   <entry>
     <title>A Bootiful Podcast: Swagger-SpringMVC creator Marty Pitt on SpringFox, Swagger, Vyne and Taxi lang, and much more</title>
     <link rel="alternate" href="https://spring.io/blog/2021/04/01/a-bootiful-podcast-swagger-springmvc-creator-marty-pitt-on-springfox-swagger-vyne-and-taxi-lang-and-much-more" />
@@ -787,127 +909,6 @@ cloud.aws.rds.instances[0].username=user
 &lt;p&gt;Detailed changes can be found here: &lt;a href="https://github.com/spring-projects/sts4/wiki/Changelog#2021-03-17-4100-release-incl-language-servers-version-1250"&gt;https://github.com/spring-projects/sts4/wiki/Changelog#2021-03-17-4100-release-incl-language-servers-version-1250&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Spring Tools 4.10.1 is scheduled to be released in late April 2021.&lt;/p&gt;
 &lt;p&gt;Enjoy!&lt;/p&gt;
-&lt;!-- rendered by Sagan Renderer Service --&gt;</content>
-  </entry>
-  <entry>
-    <title>Spring Data 2021.0.0-M5, 2020.0.6, and Neumann SR8 released</title>
-    <link rel="alternate" href="https://spring.io/blog/2021/03/17/spring-data-2021-0-0-m5-2020-0-6-and-neumann-sr8-released" />
-    <category term="releases" label="Releases" />
-    <author>
-      <name>Mark Paluch</name>
-    </author>
-    <id>tag:spring.io,2021-03-17:4386</id>
-    <updated>2021-03-17T10:53:00Z</updated>
-    <content type="html">&lt;p&gt;On behalf of the team, I¡¯m pleased to announce the availability of the Spring Data releases &lt;code&gt;2021.0.0-M5&lt;/code&gt;, &lt;code&gt;2020.0.6&lt;/code&gt;, and &lt;code&gt;Neumann SR8&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;2021.0.0-M5&lt;/code&gt; and &lt;code&gt;2020.0.6&lt;/code&gt; will be picked up by Spring Boot &lt;code&gt;2.5.0-M3&lt;/code&gt; and &lt;code&gt;2.4.4&lt;/code&gt;, respectively, in the next few days. If you use Spring Boot 2.3 and want to upgrade to &lt;code&gt;Neumann SR8&lt;/code&gt;, set the &lt;code&gt;spring-data-releasetrain.version&lt;/code&gt; property to &lt;code&gt;Neumann-SR8&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;While the service releases ship with mostly bug fixes and dependency upgrades, the milestone contains a few noteworthy changes:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Support for the &lt;a href="https://github.com/xmolecules/jmolecules"&gt;jMolecules&lt;/a&gt;&amp;rsquo; &lt;code&gt;Association&lt;/code&gt; type.&lt;/li&gt;
-  &lt;li&gt;Reactive support for &lt;code&gt;SearchTemplate&lt;/code&gt; using Elasticsearch.&lt;/li&gt;
-  &lt;li&gt;Redis Streams support using the Jedis client.&lt;/li&gt;
-  &lt;li&gt;Spring Data R2DBC support for Query by Example and &lt;a href="https://github.com/oracle/oracle-r2dbc"&gt;Oracle&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;We are working towards a release candidate of the &lt;code&gt;2021.0&lt;/code&gt; development line for the end of March. The release candidate is a good opportunity to give feedback before the actual GA release in mid-April.&lt;/p&gt;
-&lt;p&gt;To round things off, here are the links to the artifacts, changelogs, and documentation:&lt;/p&gt;&lt;h2&gt;&lt;a href="#2021-0-0-m5" class="anchor" name="2021-0-0-m5"&gt;&lt;/a&gt;2021.0.0-M5&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Spring Data Commons 2.5 M5 - &lt;a href="https://repo.spring.io/libs-milestone/org/springframework/data/spring-data-commons/2.5.0-M5"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/commons/docs/2.5.0-M5/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/commons/docs/2.5.0-M5/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-commons/releases/tag/2.5.0-M5"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data JDBC 2.2 M5 - &lt;a href="https://repo.spring.io/libs-milestone/org/springframework/data/spring-data-jdbc/2.2.0-M5"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/jdbc/docs/2.2.0-M5/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/jdbc/docs/2.2.0-M5/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-jdbc/releases/tag/2.2.0-M5"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data JPA 2.5 M5 - &lt;a href="https://repo.spring.io/libs-milestone/org/springframework/data/spring-data-jpa/2.5.0-M5"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/jpa/docs/2.5.0-M5/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/jpa/docs/2.5.0-M5/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-jpa/releases/tag/2.5.0-M5"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data for Apache Geode 2.5 M5 - &lt;a href="https://repo.spring.io/libs-milestone/org/springframework/data/spring-data-geode/2.5.0-M5"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/geode/docs/2.5.0-M5/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/geode/docs/2.5.0-M5/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-geode/releases/tag/2.5.0-M5"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data Neo4j 6.1 M5 - &lt;a href="https://repo.spring.io/libs-milestone/org/springframework/data/spring-data-neo4j/6.1.0-M5"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/neo4j/docs/6.1.0-M5/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/neo4j/docs/6.1.0-M5/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-neo4j/releases/tag/6.1.0-M5"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data KeyValue 2.5 M5 - &lt;a href="https://repo.spring.io/libs-milestone/org/springframework/data/spring-data-keyvalue/2.5.0-M5"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/keyvalue/docs/2.5.0-M5/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/keyvalue/docs/2.5.0-M5/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-keyvalue/releases/tag/2.5.0-M5"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data MongoDB 3.2 M5 - &lt;a href="https://repo.spring.io/libs-milestone/org/springframework/data/spring-data-mongodb/3.2.0-M5"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/mongodb/docs/3.2.0-M5/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/mongodb/docs/3.2.0-M5/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-mongodb/releases/tag/3.2.0-M5"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data for Apache Cassandra 3.2 M5 - &lt;a href="https://repo.spring.io/libs-milestone/org/springframework/data/spring-data-cassandra/3.2.0-M5"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/cassandra/docs/3.2.0-M5/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/cassandra/docs/3.2.0-M5/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-cassandra/releases/tag/3.2.0-M5"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data R2DBC 1.3 M5 - &lt;a href="https://repo.spring.io/libs-milestone/org/springframework/data/spring-data-r2dbc/1.3.0-M5"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/r2dbc/docs/1.3.0-M5/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/r2dbc/docs/1.3.0-M5/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-r2dbc/releases/tag/1.3.0-M5"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data LDAP 2.5 M5 - &lt;a href="https://repo.spring.io/libs-milestone/org/springframework/data/spring-data-ldap/2.5.0-M5"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/ldap/docs/2.5.0-M5/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/ldap/docs/2.5.0-M5/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-ldap/releases/tag/2.5.0-M5"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data Envers 2.5 M5 - &lt;a href="https://repo.spring.io/libs-milestone/org/springframework/data/spring-data-envers/2.5.0-M5"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/envers/docs/2.5.0-M5/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/envers/docs/2.5.0-M5/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-envers/releases/tag/2.5.0-M5"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data REST 3.5 M5 - &lt;a href="https://repo.spring.io/libs-milestone/org/springframework/data/spring-data-rest-webmvc/3.5.0-M5"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/rest/docs/3.5.0-M5/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/rest/docs/3.5.0-M5/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-rest/releases/tag/3.5.0-M5"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data Redis 2.5 M5 - &lt;a href="https://repo.spring.io/libs-milestone/org/springframework/data/spring-data-redis/2.5.0-M5"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/redis/docs/2.5.0-M5/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/redis/docs/2.5.0-M5/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-redis/releases/tag/2.5.0-M5"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data Elasticsearch 4.2 M5 - &lt;a href="https://repo.spring.io/libs-milestone/org/springframework/data/spring-data-elasticsearch/4.2.0-M5"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/elasticsearch/docs/4.2.0-M5/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/elasticsearch/docs/4.2.0-M5/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-elasticsearch/releases/tag/4.2.0-M5"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data Couchbase 4.2 M5 - &lt;a href="https://repo.spring.io/libs-milestone/org/springframework/data/spring-data-couchbase/4.2.0-M5"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/couchbase/docs/4.2.0-M5/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/couchbase/docs/4.2.0-M5/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-couchbase/releases/tag/4.2.0-M5"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h2&gt;&lt;a href="#2020-0-6" class="anchor" name="2020-0-6"&gt;&lt;/a&gt;2020.0.6&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Spring Data Commons 2.4.6 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-commons/2.4.6"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/commons/docs/2.4.6/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/commons/docs/2.4.6/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-commons/releases/tag/2.4.6"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data JDBC 2.1.6 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-jdbc/2.1.6"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/jdbc/docs/2.1.6/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/jdbc/docs/2.1.6/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-jdbc/releases/tag/2.1.6"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data JPA 2.4.6 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-jpa/2.4.6"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/jpa/docs/2.4.6/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/jpa/docs/2.4.6/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-jpa/releases/tag/2.4.6"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data for Apache Geode 2.4.6 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-geode/2.4.6"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/geode/docs/2.4.6/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/geode/docs/2.4.6/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-geode/releases/tag/2.4.6"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data Neo4j 6.0.6 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-neo4j/6.0.6"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/neo4j/docs/6.0.6/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/neo4j/docs/6.0.6/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-neo4j/releases/tag/6.0.6"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data KeyValue 2.4.6 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-keyvalue/2.4.6"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/keyvalue/docs/2.4.6/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/keyvalue/docs/2.4.6/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-keyvalue/releases/tag/2.4.6"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data MongoDB 3.1.6 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-mongodb/3.1.6"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/mongodb/docs/3.1.6/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/mongodb/docs/3.1.6/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-mongodb/releases/tag/3.1.6"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data for Apache Cassandra 3.1.6 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-cassandra/3.1.6"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/cassandra/docs/3.1.6/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/cassandra/docs/3.1.6/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-cassandra/releases/tag/3.1.6"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data R2DBC 1.2.6 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-r2dbc/1.2.6"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/r2dbc/docs/1.2.6/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/r2dbc/docs/1.2.6/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-r2dbc/releases/tag/1.2.6"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data LDAP 2.4.6 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-ldap/2.4.6"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/ldap/docs/2.4.6/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/ldap/docs/2.4.6/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-ldap/releases/tag/2.4.6"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data Envers 2.4.6 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-envers/2.4.6"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/envers/docs/2.4.6/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/envers/docs/2.4.6/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-envers/releases/tag/2.4.6"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data REST 3.4.6 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-rest-webmvc/3.4.6"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/rest/docs/3.4.6/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/rest/docs/3.4.6/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-rest/releases/tag/3.4.6"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data Redis 2.4.6 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-redis/2.4.6"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/redis/docs/2.4.6/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/redis/docs/2.4.6/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-redis/releases/tag/2.4.6"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data Elasticsearch 4.1.6 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-elasticsearch/4.1.6"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/elasticsearch/docs/4.1.6/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/elasticsearch/docs/4.1.6/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-elasticsearch/releases/tag/4.1.6"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data Couchbase 4.1.6 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-couchbase/4.1.6"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/couchbase/docs/4.1.6/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/couchbase/docs/4.1.6/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-couchbase/releases/tag/4.1.6"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data for Apache Solr 4.3.6 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-solr/4.3.6"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/solr/docs/4.3.6/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/solr/docs/4.3.6/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-solr/releases/tag/4.3.6"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h2&gt;&lt;a href="#neumann-sr8" class="anchor" name="neumann-sr8"&gt;&lt;/a&gt;Neumann SR8&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Spring Data Commons 2.3.8 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-commons/2.3.8.RELEASE"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/commons/docs/2.3.8.RELEASE/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/commons/docs/2.3.8.RELEASE/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-commons/releases/tag/2.3.8.RELEASE"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data JDBC 2.0.8 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-jdbc/2.0.8.RELEASE"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/jdbc/docs/2.0.8.RELEASE/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/jdbc/docs/2.0.8.RELEASE/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-jdbc/releases/tag/2.0.8.RELEASE"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data JPA 2.3.8 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-jpa/2.3.8.RELEASE"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/jpa/docs/2.3.8.RELEASE/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/jpa/docs/2.3.8.RELEASE/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-jpa/releases/tag/2.3.8.RELEASE"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data for Apache Geode 2.3.8 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-geode/2.3.8.RELEASE"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/geode/docs/2.3.8.RELEASE/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/geode/docs/2.3.8.RELEASE/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-geode/releases/tag/2.3.8.RELEASE"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data Neo4j 5.3.8 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-neo4j/5.3.8.RELEASE"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/neo4j/docs/5.3.8.RELEASE/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/neo4j/docs/5.3.8.RELEASE/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-neo4j/releases/tag/5.3.8.RELEASE"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data KeyValue 2.3.8 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-keyvalue/2.3.8.RELEASE"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/keyvalue/docs/2.3.8.RELEASE/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/keyvalue/docs/2.3.8.RELEASE/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-keyvalue/releases/tag/2.3.8.RELEASE"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data MongoDB 3.0.8 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-mongodb/3.0.8.RELEASE"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/mongodb/docs/3.0.8.RELEASE/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/mongodb/docs/3.0.8.RELEASE/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-mongodb/releases/tag/3.0.8.RELEASE"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data for Apache Cassandra 3.0.8 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-cassandra/3.0.8.RELEASE"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/cassandra/docs/3.0.8.RELEASE/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/cassandra/docs/3.0.8.RELEASE/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-cassandra/releases/tag/3.0.8.RELEASE"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data R2DBC 1.1.8 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-r2dbc/1.1.8.RELEASE"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/r2dbc/docs/1.1.8.RELEASE/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/r2dbc/docs/1.1.8.RELEASE/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-r2dbc/releases/tag/1.1.8.RELEASE"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data LDAP 2.3.8 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-ldap/2.3.8.RELEASE"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/ldap/docs/2.3.8.RELEASE/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/ldap/docs/2.3.8.RELEASE/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-ldap/releases/tag/2.3.8.RELEASE"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data Envers 2.3.8 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-envers/2.3.8.RELEASE"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/envers/docs/2.3.8.RELEASE/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/envers/docs/2.3.8.RELEASE/reference/html"&gt;Documentation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data REST 3.3.8 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-rest-webmvc/3.3.8.RELEASE"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/rest/docs/3.3.8.RELEASE/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/rest/docs/3.3.8.RELEASE/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-rest/releases/tag/3.3.8.RELEASE"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data Redis 2.3.8 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-redis/2.3.8.RELEASE"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/redis/docs/2.3.8.RELEASE/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/redis/docs/2.3.8.RELEASE/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-redis/releases/tag/2.3.8.RELEASE"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data Elasticsearch 4.0.8 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-elasticsearch/4.0.8.RELEASE"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/elasticsearch/docs/4.0.8.RELEASE/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/elasticsearch/docs/4.0.8.RELEASE/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-elasticsearch/releases/tag/4.0.8.RELEASE"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data Couchbase 4.0.8 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-couchbase/4.0.8.RELEASE"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/couchbase/docs/4.0.8.RELEASE/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/couchbase/docs/4.0.8.RELEASE/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-couchbase/releases/tag/4.0.8.RELEASE"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data for Apache Solr 4.2.8 - &lt;a href="https://repo.spring.io/libs-release/org/springframework/data/spring-data-solr/4.2.8.RELEASE"&gt;Artifacts&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/solr/docs/4.2.8.RELEASE/api"&gt;Javadoc&lt;/a&gt; - &lt;a href="https://docs.spring.io/spring-data/solr/docs/4.2.8.RELEASE/reference/html"&gt;Documentation&lt;/a&gt; - &lt;a href="https://github.com/spring-projects/spring-data-solr/releases/tag/4.2.8.RELEASE"&gt;Changelog&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- rendered by Sagan Renderer Service --&gt;</content>
-  </entry>
-  <entry>
-    <title>This Week in Spring - March 16th, 2021</title>
-    <link rel="alternate" href="https://spring.io/blog/2021/03/16/this-week-in-spring-march-16th-2021" />
-    <category term="engineering" label="Engineering" />
-    <author>
-      <name>Josh Long</name>
-    </author>
-    <id>tag:spring.io,2021-03-16:4385</id>
-    <updated>2021-03-16T19:20:00Z</updated>
-    <content type="html">&lt;p&gt;Hi, Spring fans! Welcome to another installment of &lt;em&gt;This Week in Spring&lt;/em&gt;! As usual, we&amp;rsquo;ve got a ton of stuff to get to so let&amp;rsquo;s dive right in! &lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="https://spring.io/blog/2021/03/11/announcing-spring-native-beta"&gt;Announcing Spring Native Beta!&lt;/a&gt;. This is by far the most important bit to come out of the last week! There is SO MUCH good stuff to ponder here. Spring Native is a set of hints that help GraalVM&amp;rsquo;s &lt;code&gt;native-image&lt;/code&gt; facility turn your dynamic Java code into a lightning fast, super lightweight, machine architecture-specific binary that you&amp;rsquo;ll definitely want to invite to your next Docker container party. Tons of stuff just works out of the box. Native compilation is even supported on the &lt;a href="http://start.spring.io"&gt;Spring Initializr&lt;/a&gt; - just add &lt;code&gt;Native&lt;/code&gt; to the selections! You can use &lt;code&gt;@NativeHint&lt;/code&gt; annotations to register certain classes for proxying, reflection, etc. Or, you can implement &lt;code&gt;NativeConfiguration&lt;/code&gt; to dynamically register things at compile time. Make sure that you add the &lt;code&gt;.jar&lt;/code&gt; containing the &lt;code&gt;NativeConfiguration&lt;/code&gt; class to the &lt;code&gt;META-INF/services/&lt;/code&gt; service loader entry for classes of type &lt;code&gt;NativeConfiguration&lt;/code&gt; and then add that &lt;code&gt;.jar&lt;/code&gt; to the &lt;code&gt;spring-aot&lt;/code&gt; Maven plugin&amp;rsquo;s classpath. You can easily build your native image and export a container using Spring Boot&amp;rsquo;s buildpack support: &lt;code&gt;mvn spring-boot:build-image&lt;/code&gt;. You&amp;rsquo;ll find tons of &lt;a href="https://github.com/spring-projects-experimental/spring-native/tree/master/samples"&gt;samples&lt;/a&gt; supporting its use in the repository, too!&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://twitter.com/java/status/1371842658256228356?s=12"&gt;Java 16 is here!&lt;/a&gt;. Finally, &lt;code&gt;instanceof&lt;/code&gt; pattern matching and record types (&lt;code&gt;record Customer(Integer id, String name) {}&lt;/code&gt;) work out of the box in Java! Congrats to the Java team and, of course, you can expect good support for Java 16 in Spring Boot to land sooner rather than later.&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://spring.io/blog/2021/03/11/a-bootiful-podcast-ff4j-project-creator-and-datastax-astra-sdk-engineer-cedrick-lunven"&gt;A Bootiful Podcast: FF4J project creator and DataStax Astra SDK engineer Cedrick Lunven&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://twitter.com/theapachetomcat/status/1370090389261197314?s=21"&gt;Apache Tomcat on Twitter: &amp;ldquo;Apache Tomcat 8.5.64 has been released. Downloads: &lt;a href="https://t.co/gvowEu055P"&gt;https://t.co/gvowEu055P&lt;/a&gt; Changelog: &lt;a href="https://t.co/J4TCalUgvU"&gt;https://t.co/J4TCalUgvU&lt;/a&gt;&amp;rdquo; / Twitter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://spring.io/blog/2021/03/11/deploy-spring-boot-applications-by-leveraging-enterprise-best-practices-azure-spring-cloud-reference-architecture"&gt;Deploy Spring Boot applications by leveraging enterprise best practices ? Azure Spring Cloud Reference Architecture&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;This isn&amp;rsquo;t particularly related to Spring Boot, but, there&amp;rsquo;s an interesting repository on &lt;a href="https://github.com/ossu/computer-science"&gt;GitHub - &lt;code&gt;ossu/computer-science&lt;/code&gt; - that offers a path to a free self-taught education in Computer Science!&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://medium.com/trendyol-tech/graceful-shutdown-of-spring-boot-applications-in-kubernetes-f80e0b3a30b0"&gt;Graceful Shutdown of Spring Boot Applications in Kubernetes by Kaan Ta? on the Trendyol Tech blog &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://twitter.com/ankurkumarz/status/1370576164582952962?s=12"&gt;I was on the Devpod podcast&lt;/a&gt; and it was a lot of fun and you might enjoy it.&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://blogs.oracle.com/java/java-recognized-as-the-favorite-programming-language"&gt;Java Recognized as the Favorite Programming Language &lt;/a&gt;. Of course it was! It&amp;rsquo;s double dope.&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.meetup.com/all-things-cloud-native-bay-area/events/276525445/"&gt;Java in the Cloud Native World, featuring the Starbuxman (Josh Long) | Meetup&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;A great thread from Microsoft&amp;rsquo;s &lt;a href="https://twitter.com/juliendubois/status/1371509038601621505"&gt;Julien Dubois on Twitter: &amp;quot;As Spring Native beta was released last Friday&amp;hellip;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://piotrminkowski.com/2021/03/12/knative-eventing-with-kafka-and-spring-cloud/"&gt;KNative eventing with Spring and Apache Kafka&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://spring.io/blog/2021/03/16/spring-framework-5-3-5-available-now"&gt;Spring Framework 5.3.5 available now&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://calendly.com/mgist1/spring-boot-wavefront?month=2021-03"&gt;Tanzu Observability for Wavefront (formerly Wavefront) delivers scalable observability as a service where Spring developers can build analytics-driven dashboards based on multi-sourced data including metrics, traces, histograms, and span logs. The Spring &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://twitter.com/infoq/status/1369347300200488962?s=12"&gt;The State of Undo panel in which I participated&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://twitter.com/kmensah/status/1370566724307750913?s=12"&gt;The first drop of the Oracle R2DBC driver!&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://twitter.com/JavaAtMicrosoft/status/1370079361831866372"&gt; Deploy Spring Boot apps with enterprise best practices in the Azure Spring Cloud Reference Architecture. Start here &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- rendered by Sagan Renderer Service --&gt;</content>
-  </entry>
-  <entry>
-    <title>Spring Framework 5.3.5 available now</title>
-    <link rel="alternate" href="https://spring.io/blog/2021/03/16/spring-framework-5-3-5-available-now" />
-    <category term="releases" label="Releases" />
-    <author>
-      <name>St?phane Nicoll</name>
-    </author>
-    <id>tag:spring.io,2021-03-16:4384</id>
-    <updated>2021-03-16T09:29:00Z</updated>
-    <content type="html">&lt;p&gt;On behalf of the team and everyone who has contributed, I am pleased to announce that Spring Framework &lt;code&gt;5.3.5&lt;/code&gt; is available now.&lt;/p&gt;
-&lt;p&gt;Spring Framework &lt;code&gt;5.3.5&lt;/code&gt; includes &lt;a href="https://github.com/spring-projects/spring-framework/releases/tag/v5.3.5"&gt;39 fixes and improvements&lt;/a&gt; and covers support for JDK 16 (which is scheduled for GA today), in preparation for JDK 17 LTS in September.&lt;/p&gt;
-&lt;p&gt;Stay tuned for follow-up Spring Boot releases later this week.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://projects.spring.io/spring-framework/"&gt;Project Page&lt;/a&gt; | &lt;a href="https://github.com/spring-projects/spring-framework"&gt;GitHub&lt;/a&gt; | &lt;a href="https://github.com/spring-projects/spring-framework/issues"&gt;Issues&lt;/a&gt; | &lt;a href="https://docs.spring.io/spring-framework/docs/5.3.5/spring-framework-reference"&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;!-- rendered by Sagan Renderer Service --&gt;</content>
   </entry>
 </feed>
