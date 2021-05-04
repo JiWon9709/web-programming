@@ -29,6 +29,9 @@
 	<context:component-scan base-package="org.zerock.sample">
 	</context:component-scan>
 	
+	<context:component-scan base-package="org.zerock.service">
+	</context:component-scan>
+	
 	<mybatis-spring:scan base-package="org.zerock.mapper"/>
 	<bean id="sqlSessionFactory"
 		class="org.mybatis.spring.SqlSessionFactoryBean">
