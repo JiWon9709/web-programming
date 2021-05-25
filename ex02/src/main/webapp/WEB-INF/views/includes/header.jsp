@@ -1,5 +1,6 @@
-<html lang="en">
 
+<html lang="en">
+<!DOCTYPE html>
 <head>
 
     <meta charset="utf-8">
@@ -21,14 +22,19 @@
 
     <!-- Custom styles for this page -->
     <link href="/resources/vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
+	
+	<!-- Custom CSS -->
+    <!--<link href="/resources/dist/css/sb-admin-2.css" rel="stylesheet">-->
 
+    <!-- Custom Fonts -->
+    <!--<link href="/resources/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">-->
 </head>
 
 <body id="page-top">
 
     <!-- Page Wrapper -->
     <div id="wrapper">
-
+            
         <!-- Sidebar -->
         <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
@@ -359,4 +365,5 @@
                 </nav>
                 <!-- End of Topbar -->
                 
-                <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery/3.3.1/jquery.min.js"></script>
+                <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+                
