@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 import org.zerock.domain.BoardVO;
+import org.zerock.domain.Criteria;
 import org.zerock.service.BoardService;
 
 import lombok.AllArgsConstructor;
@@ -21,10 +22,10 @@ public class BoardController {
 	private BoardService service;
 	
 	@GetMapping("/list")
-	public void list(Model model)
+	public void list(Criteria cri, Model model)
 	{
-		log.info("list");
-		model.addAttribute("list", service.getList());
+		log.info("list: " + cri);
+		model.addAttribute("list", service.getList(cri));
 	}
 	
 	// 게시물 입력 양식 요청
