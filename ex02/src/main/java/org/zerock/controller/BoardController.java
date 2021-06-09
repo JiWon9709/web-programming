@@ -26,6 +26,7 @@ public class BoardController {
 	{
 		log.info("list: " + cri);
 		model.addAttribute("list", service.getList(cri));
+		model.addAttribute("cri", cri);
 	}
 	
 	// 게시물 입력 양식 요청
